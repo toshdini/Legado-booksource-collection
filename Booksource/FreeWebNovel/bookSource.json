@@ -28,12 +28,12 @@
     "ruleExplore": {},
     "ruleReview": {},
     "ruleSearch": {
-      "bookList": ".col-content .li-row",
+      "bookList": ".ul-list1-2 .li-row",
       "bookUrl": "a@href",
       "checkKeyWord": "super",
       "coverUrl": "img@src",
       "kind": ".core span@text&&.desc .item.0@.right em@text&&.desc .item.1:2@.right a@text",
-      "name": "h3@text"
+      "name": "h3.tit a@text"
     },
     "ruleToc": {
       "chapterList": ".m-newest2 .ul-list5 li",
