@@ -28,7 +28,7 @@
     "ruleExplore": {},
     "ruleReview": {},
     "ruleSearch": {
-      "bookList": ".ul-list1-2 .li-row",
+      "bookList": ".ul-list1-2 > .li-row",
       "bookUrl": "a@href",
       "checkKeyWord": "super",
       "coverUrl": "img@src",
