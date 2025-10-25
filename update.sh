@@ -3,9 +3,11 @@
 # Get list of all folder
 bookSourceList=$(ls ./Booksource)
 rm List.md
+n=1
 for i in $bookSourceList
 do
 	echo "$n. [$i](https://intradeus.github.io/http-protocol-redirector?r=legado://import/bookSource?src=https://raw.githubusercontent.com/toshdini/Legado-booksource-collection/main/Booksource/$i/bookSource.json)  " >> List.md
+  n=$((n+1))
 done
 # Merge all Booksource
 jq '.[0]' ./Booksource/*/*json | jq -s '.' > AllBooksource.json
