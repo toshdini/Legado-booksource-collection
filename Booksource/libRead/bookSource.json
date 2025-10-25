@@ -31,7 +31,7 @@
       "bookList": ".ul-list1 .li",
       "bookUrl": "h3.tit a@href",
       "coverUrl": "img@src",
-      "intro": ".desc@text",
+      "intro": "",
       "kind": ".core span@text",
       "lastChapter": ".latest a@text",
       "name": "h3.tit a@text"
