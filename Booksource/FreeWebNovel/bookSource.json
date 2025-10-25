@@ -27,7 +27,7 @@
       "title": ""
     },
     "ruleExplore": {
-      "author": ".author@text",
+      "author": "",
       "bookList": ".ul-list1 .li",
       "bookUrl": "h3.tit a@href",
       "coverUrl": "img@src",
