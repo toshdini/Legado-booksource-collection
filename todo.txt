@@ -16,15 +16,14 @@ add more discovery
 add genre
 
 FreeWebNovel
-add discovery
+none
 
 HelScans
 add discovery
 add genre and author
 
 LightNovelPub
-add search
-have cloudflare scan
+removed
 
 LightNovelWorld
 none
@@ -41,7 +40,7 @@ MTLNovel
 none
 
 NovelFire
-add discovery
+none
 
 NovelFulll
 broken
