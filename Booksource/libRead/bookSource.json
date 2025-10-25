@@ -37,12 +37,12 @@
       "name": "h3.tit a@text"
     },
     "ruleSearch": {
-      "author": "@css:.author@text",
+      "author": "",
       "bookList": "@css:.ul-list1-2 > .li-row",
       "bookUrl": "@css:a@href",
       "checkKeyWord": "super",
       "coverUrl": "@css:img@src",
-      "intro": "@css:.desc@text",
+      "intro": "",
       "kind": "@css:.core span@text&&.desc .item.0@.right em@text&&.desc .item.1:2@.right a@text",
       "name": "@css:h3.tit a@text"
     },
