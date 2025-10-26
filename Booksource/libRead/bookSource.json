@@ -9,7 +9,7 @@
     "enabled": true,
     "enabledCookieJar": false,
     "enabledExplore": true,
-    "exploreUrl": "Most Popular::/sort/most-popular\nLatest Novels::/sort/latest-novel\nLatest Releases::/sort/latest-release\nCompleted Novels::/sort/completed-novel",
+    "exploreUrl": "Most Popular::/sort/most-popular\nMost Popular - Monthly::/sort/most-popular/monthvisit\nMost Popular - weekvisit::/sort/most-popular/weekvisit\nMost Popular - Daily::/sort/most-popular/d\nLatest Novels::/sort/latest-novel\nLatest Releases::/sort/latest-release\nCompleted Novels::/sort/completed-novel",
     "header": "{\n\"Referer\": \"https://libread.com\",\n\"Accept-Language\": \"en-US,en;q=0.5\"\n}",
     "lastUpdateTime": 1761337683188,
     "respondTime": 180000,
