@@ -32,10 +32,10 @@
     "ruleReview": {},
     "ruleSearch": {},
     "ruleToc": {
-      "chapterList": "article .collapseomatic, article ul li a",
-      "chapterName": "text",
+      "chapterList": ".chapter-group__name, .chapter-group__list-item-link",
+      "chapterName": "<js>\nif(element.hasClass('chapter-group__name')) {\n    return '📚 ' + element.select('span').text().trim();\n} else {\n    return element.text().trim();\n}\n</js>",
       "chapterUrl": "href",
-      "isVolume": ".collapseomatic@html",
+      "isVolume": ".chapter-group__name@html",
       "preUpdateJs": ""
     },
     "weight": 0
